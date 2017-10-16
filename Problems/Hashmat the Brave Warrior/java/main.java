@@ -16,9 +16,8 @@ public class Main {
             long i = cin.nextLong(), j = cin.nextLong();
             long diff = 0;
             diff = i - j;
-            if (diff < 0) {
-                diff = diff * (-1);
-            }
+            if (diff < 0)
+                diff *= -1;
             System.out.println (diff);
         }        
     }   
