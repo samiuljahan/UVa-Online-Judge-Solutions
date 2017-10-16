@@ -3,21 +3,16 @@ This repository contains my solutions of problems from the UVA online judge. Pro
 
 ## UVA Online Judge Home Page
 
-To know about UVA  visit
+To know about UVA, visit
 
-```
 https://en.wikipedia.org/wiki/UVa_Online_Judge
-```
 
-For UVA home page go to the following link  
-```
+For UVA home page, go to the following link  
+
 https://uva.onlinejudge.org/
-```
 
 ### Browse Programming Problems
 
 To browse all the problems, visit
 
-```
 https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8
-```
