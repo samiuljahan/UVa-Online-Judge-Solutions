@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Problems/A Giveaway/java"/>
+	<classpathentry kind="src" path="Problems/Above Average/java"/>
+	<classpathentry kind="src" path="Problems/Back to High School Physics/java"/>
+	<classpathentry kind="src" path="Problems/Cola/java"/>
+	<classpathentry kind="src" path="Problems/Cost Cutting/java"/>
+	<classpathentry kind="src" path="Problems/GCD/java"/>
+	<classpathentry kind="src" path="Problems/Hashmat the Brave Warrior/java"/>
+	<classpathentry kind="src" path="Problems/Horror Dash/java"/>
+	<classpathentry kind="src" path="Problems/Odd Sum/java"/>
+	<classpathentry kind="src" path="Problems/Packing For Holiday/java"/>
+	<classpathentry kind="src" path="Problems/Parity/java"/>
+	<classpathentry kind="src" path="Problems/Perfection/java"/>
+	<classpathentry kind="src" path="Problems/Relational Operator/java"/>
+	<classpathentry kind="src" path="Problems/Square Numbers/java"/>
+	<classpathentry kind="src" path="Problems/The 3n+1 problem/java"/>
+	<classpathentry kind="src" path="Problems/The Coco-Cola Store/java"/>
+	<classpathentry kind="src" path="Problems/Zapping/java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
